@@ -1,2 +1,2 @@
-# recipte-app-api
+# recipe-app-api
 Course on Django Backend API Rest application
